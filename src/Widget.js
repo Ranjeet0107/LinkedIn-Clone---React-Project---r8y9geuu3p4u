@@ -44,7 +44,7 @@ function Widget() {
     </div>
     <div className='widget_bottom'>
     <div className='widget_header'>
-    <h4>Start leaning today</h4>
+    <h4>Start learning today</h4>
     <InfoIcon/>
     
     </div>
