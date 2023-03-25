@@ -3,13 +3,13 @@ import firebase from "firebase";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDtIRmatybfHSNjCas5zCm441pqns2vy60",
-  authDomain: "linkdin-e8481.firebaseapp.com",
-  projectId: "linkdin-e8481",
-  storageBucket: "linkdin-e8481.appspot.com",
-  messagingSenderId: "902237401733",
-  appId: "1:902237401733:web:9a1f52d7dba4b0ad776fec",
-  measurementId: "G-7QWJZE19J0"
+  apiKey: "AIzaSyCPJh5oCdtP3ol6D73uD977uttslqkz24M",
+  authDomain: "linkdin-7bb83.firebaseapp.com",
+  projectId: "linkdin-7bb83",
+  storageBucket: "linkdin-7bb83.appspot.com",
+  messagingSenderId: "211908686900",
+  appId: "1:211908686900:web:e6b0aae120a789ac2a0661",
+  measurementId: "G-NNB5JNJ4YK"
   };
   //this special line of code here connects everything
   const firebaseApp=firebase.initializeApp(firebaseConfig);
