@@ -2,15 +2,18 @@
 import firebase from "firebase";
 
 
+
+ // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCPJh5oCdtP3ol6D73uD977uttslqkz24M",
-  authDomain: "linkdin-7bb83.firebaseapp.com",
-  projectId: "linkdin-7bb83",
-  storageBucket: "linkdin-7bb83.appspot.com",
-  messagingSenderId: "211908686900",
-  appId: "1:211908686900:web:e6b0aae120a789ac2a0661",
-  measurementId: "G-NNB5JNJ4YK"
-  };
+  apiKey: "AIzaSyDym6BeDDMEXssW7kQiN_6umcuFAViCOR8",
+  authDomain: "linkdin-clon-8209f.firebaseapp.com",
+  projectId: "linkdin-clon-8209f",
+  storageBucket: "linkdin-clon-8209f.appspot.com",
+  messagingSenderId: "304057636718",
+  appId: "1:304057636718:web:3e320c86b47b9a16e2537f",
+  measurementId: "G-9DTC9ZSXX1"
+};
+
   //this special line of code here connects everything
   const firebaseApp=firebase.initializeApp(firebaseConfig);
   //get the firebase databse
