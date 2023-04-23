@@ -5,13 +5,13 @@ import firebase from "firebase";
 
  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDym6BeDDMEXssW7kQiN_6umcuFAViCOR8",
-  authDomain: "linkdin-clon-8209f.firebaseapp.com",
-  projectId: "linkdin-clon-8209f",
-  storageBucket: "linkdin-clon-8209f.appspot.com",
-  messagingSenderId: "304057636718",
-  appId: "1:304057636718:web:3e320c86b47b9a16e2537f",
-  measurementId: "G-9DTC9ZSXX1"
+  apiKey: "AIzaSyAp-BpL7ZFRuwc0NRa8MzN2p-BMLaUFwa8",
+  authDomain: "linkdin-e1147.firebaseapp.com",
+  projectId: "linkdin-e1147",
+  storageBucket: "linkdin-e1147.appspot.com",
+  messagingSenderId: "644161989",
+  appId: "1:644161989:web:bd29ef4173101cca216bac",
+  measurementId: "G-ZJJPKN0H58"
 };
 
   //this special line of code here connects everything
